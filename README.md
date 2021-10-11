@@ -8,3 +8,5 @@ Use the translator to convert your text from English to Groot speak or Groot lan
 Made using <strong>HTML, Vanilla js and CSS</strong>.
 <br>
 <a href="https://groot-talkss.netlify.app/">Visit the live website</a>
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBB3Gyb3J8LRsPx8Cv3FZreMVOlyeWdc1tw&usqp=CAU">
